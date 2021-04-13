@@ -1,5 +1,4 @@
-# prédiction telemarketing
-
+#  Prediction_bank_telemarketing
 Les données que nous étudions sont liées aux campagnes de marketing direct d'une institution bancaire portugaise.Les campagnes de marketing 
 étaient basées sur des appels téléphoniques. Souvent, plus d'un contact avec le même client était nécessaire, afin 
 d'accéder si le produit (dépôt à terme bancaire) était («oui») ou non («non») souscrit.
